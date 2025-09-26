@@ -1,5 +1,5 @@
-# GTA5-LegionRework
-Mapping project to remove the barriers from the entrance to Legion Carpark.
+# poitor-LegionRework
+GTA 5 - Mapping project to remove the barriers from the entrance to Legion Carpark.
 
 ---
 
